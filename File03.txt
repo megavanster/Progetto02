@@ -1,0 +1,6 @@
+﻿Questo è un file di prova per vedere come funziona git.
+
+Ecco che ho fatto una modifica in data 08/09/2017.
+Ecco la seconda modifica della giornata.
+
+Questa è la terza modifica.
